@@ -1,0 +1,36 @@
+{
+  "name": "EcoPay",
+  "symbol": "ECOP",
+  "description": "EcoPay (ECOP) is the next-generation token for sustainable commerce. Earn EcoPay by supporting eco-friendly projects, shopping green, or participating in community-driven sustainability initiatives.",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/JumMaxBenz/EcoPay-Assets/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Focus",
+      "value": "Eco-Friendly Commerce"
+    }
+  ],
+  "collection": {
+    "name": "EcoPay Token",
+    "family": "EcoPay Ecosystem"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/EcoPay-Assets/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DEINE WALLET-ADRESSE",
+        "share": 100
+      }
+    ]
+  }
+}
